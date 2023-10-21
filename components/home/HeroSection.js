@@ -11,7 +11,7 @@ function HeroSection() {
       <div className={classes.hero__container}>
         <div className={classes.hero__info}>
           <h1 className={classes.hero__title}>
-            Find the perfect <span>meal recipe</span> for you
+            Find the perfect <span>meal recipe</span> for us all
           </h1>
 
           <div className={classes.hero__buttons}>
