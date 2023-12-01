@@ -9,9 +9,9 @@ function Footer() {
     <footer className={classes.footer}>
       <Image width={50} height={50} src={Logo} alt="Mr West" />
       <Text>Find the perfect meal recipe for you</Text>
-      <Text className={classes.copyright}>
+      {/* <Text className={classes.copyright}>
         © “Mr-West” 2022 All right reserved.
-      </Text>
+      </Text> */}
     </footer>
   );
 }
